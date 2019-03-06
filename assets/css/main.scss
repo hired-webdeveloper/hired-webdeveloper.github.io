@@ -1,0 +1,15 @@
+---
+# If you use the haacked/haackbar Jekyll Theme, you do not need to add this file
+# unless you want to customize the CSS styles
+#
+# To customize the theme's CSS, copy this file to your site with the same directory
+# structure. Add your customizations.
+---
+
+$brand-color: #fcbE4a;
+$grey-color: #e8e8e8;
+$grey-color-medium: darken($grey-color, 20%);
+$header-background-color: #203c3f;
+$sidebar-width: 370px !default;
+
+@import 'haackbar';
