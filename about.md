@@ -5,15 +5,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey, my name is Gerrit and I've been a web developer for three years now. Over
+time, I've seen applicants struggle with their application letters, in
+interviews and in coding challenges. Most of the time it's junior developers who
+are trying to score their first job in the real world and fail.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My goal with this blog is to help junior developers to overcome the hurdles,
+learn the important bits, focus on the things that really matter, improve their
+code quality, application letters and communication skills and finally get the
+job they want.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This blog focuses on Javascript, but I hope that most advice is somehow
+transferable into the language of your choice. Cheers.

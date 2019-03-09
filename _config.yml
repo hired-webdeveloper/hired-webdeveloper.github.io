@@ -1,22 +1,19 @@
 title: The Hired Web Developer
-subtitle: Step up your game to score that entry-level position you want.
-author: Blog Author
+subtitle: Step up your game to score that entry-level position you desire.
+author:
 avatar_url: /assets/img/js-avatar.png  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Description
 
 remote_theme: haacked/haackbar
 
 # contact
 contact:
-  email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
+  email: hired.webdeveloper@google.com  # Comment out this line if you don't want to expose your email.
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links
-twitter_username: jekyllrb
-rss: rss
+twitter_username: hired_webdeveloper
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
