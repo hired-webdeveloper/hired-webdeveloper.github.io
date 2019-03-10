@@ -3,13 +3,15 @@ subtitle: Step up your game to score that entry-level position you desire.
 author:
 avatar_url: /assets/img/js-avatar.png  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-  Description
+  Overcome the obstacles, focus on your craft, your programming language and
+  your code quality and finally score the entry-level web developer position of
+  your dreams. I hope my blog helps you on your path.
 
 remote_theme: haacked/haackbar
 
 # contact
 contact:
-  email: hired.webdeveloper@google.com  # Comment out this line if you don't want to expose your email.
+  email: hired.webdeveloper@gmail.com  # Comment out this line if you don't want to expose your email.
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links

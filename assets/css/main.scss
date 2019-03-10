@@ -10,6 +10,15 @@ $brand-color: #fcbE4a;
 $grey-color: #e8e8e8;
 $grey-color-medium: darken($grey-color, 20%);
 $header-background-color: #203c3f;
-$sidebar-width: 370px !default;
+$on-mobile: 900px;
+$sidebar-width: 370px;
 
 @import 'haackbar';
+
+.footer-col-1 {
+  width: calc(40% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: calc(60% - (#{$spacing-unit} / 2));
+}
